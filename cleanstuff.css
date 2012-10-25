@@ -1,0 +1,33 @@
+body {
+    background: #fff !important;
+}
+#home_nav {
+    margin: 20px 0 !important;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    height: 20px;
+}
+#home_nav a {
+    background: none !important;
+    color: #666 !important;
+    height: 20px;
+    line-height: 20px;
+    padding: 0 20px 0 0;
+    margin: 0;
+    width: auto;
+}
+#home_nav:hover {
+    visibility: visible !important;
+}
+#adPUSHDOWNBANNER,
+#home-slider-placeholder,
+#greybar, 
+#customise, 
+#adHOMEPAGETOPRIGHT, 
+#trademenav, 
+#pagetop_masthead .homesky_image, 
+#adspecial_offer_box,
+#leftgutter,
+#rightgutter {
+    display: none !important;
+}
